@@ -9,3 +9,4 @@ eureka:
   client:
     register-with-eureka: false
     fetch-registry: false # Definir para que o servidor não busque registros do eureka
+profile: dev
